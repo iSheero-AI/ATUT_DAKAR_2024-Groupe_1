@@ -1,0 +1,2 @@
+"Lorsque je renseigne le code reçu par sms pour l'obtention de mon IFU, un message d'erreur s'affiche à l'écran. Comment faire ?
+Pour toutes vos demandes d’Identifiant Fiscal Unique (IFU) sur https://e-services.impots.bj , veuillez renseigner correctement le code reçu par SMS en saisissant uniquement les chiffresExemple : 486111"

@@ -1,0 +1,2 @@
+"Les Machines Électroniques Certifiées de Facturation peuvent-elles fonctionner avec le logiciel Excel ?
+Le logiciel Excel n’est pas un logiciel de facturation. L’Unité de Facturation (UF) est la catégorie de MECeF adaptée pour les entreprises qui n'ont pas de logiciel de facturation."

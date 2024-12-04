@@ -1,0 +1,2 @@
+"Tous les impôts auxquels je suis assujetti ne s'affichent pas sur mon tableau de bord. Comment faire ?
+La Direction Générale des Impôts enregistre dans son système d’information les impôts auxquels sont assujettis les contribuables.C’est sur la base de ces informations que les déclarations correspondantes vous sont restituées sur le portail e-services.Si vous constatez une incohérence (déclaration manquante, ou affichée à tort), vous devez vous rapprocher de votre gestionnaire."

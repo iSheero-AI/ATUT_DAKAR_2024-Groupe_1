@@ -1,0 +1,2 @@
+"Je n'ai pas reçu d’email pour générer mon mot de passe, dois-je refaire une nouvelle demande d’adhésion ?
+Si vous avez bien reçu l’email de confirmation de la transmission de votre demande d’adhésion,veuillez patienter pendant que la DGI procède au contrôle de son demande. Si vous n’avez toujours pas reçu d’email quant au traitement de votre demande passé quelques jours, veuillez consulter le dossier des courriers indésirables (spams) de votre boite aux lettres.Merci de prendre contact avec la Direction Générale des Impôts si votre demande ne semble pas avoir été traitée."

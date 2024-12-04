@@ -1,0 +1,2 @@
+"J’ai oublié mon mot de passe, comment faire ?
+Depuis la page d’accueil du portail, cliquez sur le lien « Mot de passe oublié », puis suivez les instructions affichées à l’écran.Vous devrez fournir votre IFU, votre numéro e-services, ainsi que votre adresse email. Votre nouveau mot de passe vous sera envoyé par email."

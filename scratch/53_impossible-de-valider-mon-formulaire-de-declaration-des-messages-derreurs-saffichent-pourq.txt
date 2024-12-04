@@ -1,0 +1,2 @@
+"Impossible de valider mon formulaire de déclaration : des messages d'erreurs s’affichent, pourquoi ?
+Lors de la saisie d’un formulaire de déclaration, la validation sera impossible si l’un des champs du formulaire n’est pas saisi correctement. Le système e-services effectue des contrôles de conformité de chacun des champs afin de prévenir les erreurs de saisie.Veuillez alors vérifier la cohérence des données saisies dans le champ sur lequel s’affiche le message d’erreur."

@@ -1,0 +1,2 @@
+"Je n'arrive pas à insérer des pièces jointes. Quel est le problème ?
+Dans le cadre de la procédure d’adhésion, vous devez joindre une copie numérisée de votre pièced’identité, ainsi que de l’autorisation signée par le mandataire social de l’entreprise. Ces documents doivent obligatoirement être dans l’un des formats de fichier suivant : .pdf, .png,.jpg ou .jpeg De plus, vous devez veiller à ce que chacun de ces deux documents ne dépasse pas 2 Mo."

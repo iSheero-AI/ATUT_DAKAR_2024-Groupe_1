@@ -1,0 +1,2 @@
+"Puis-je modifier mon mot de passe ?
+Vous pouvez à tout moment modifier votre mot de passe en vous rendant dans le menu Mon compte puis sur la page Mot de passe. Depuis cette page, vous pourrez facilement modifier votre mot de passe."

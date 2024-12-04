@@ -1,0 +1,2 @@
+"Ma demande d'adhésion a été rejetée. Pourquoi ?
+Le motif du rejet de votre demande d’adhésion est indiqué dans l’email de notification du rejet quevous avez reçu.Vous vous êtes très certainement trompé lors du chargement de vos documents justificatifs, ouavez effectué des erreurs lors de la saisie du formulaire d’identification.En cas d’incompréhension, merci de prendre contact avec la Direction Générale des Impôts."

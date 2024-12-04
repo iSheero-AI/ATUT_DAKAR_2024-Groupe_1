@@ -1,0 +1,2 @@
+"Comment faire pour joindre un document annexe à la déclaration ?
+Dans le cas où un impôt nécessite l’ajout d’une ou plusieurs pièce(s) jointe(s) supplémentaire(s) à celle(s) proposée(s) sur le portail, vous avez la possibilité d’ajouter autant de fichiers que souhaité. Pour ce faire, cliquez sur le bouton (+) sur la droite du bloc d’ajout de pièces jointes."

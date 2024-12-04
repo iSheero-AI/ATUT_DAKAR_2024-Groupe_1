@@ -1,0 +1,2 @@
+"Les comptes des nouveaux utilisateurs doivent-ils être validés par la DGI ?
+L’administrateur du compte d’une entreprise peut à tout moment ajouter de nouveaux utilisateurs en leur attribuant le profil souhaité.Dès lors que ces nouveaux utilisateurs sont créés par l’administrateur, leurs comptes en ligne sont actifs et peuvent être utilisés.Le contrôle des informations d’identité par la Direction Générale des Impôts ne concerne que la procédure d’adhésion visant à activer le compte en ligne du contribuable."

@@ -1,0 +1,2 @@
+"Quand je veux ajouter un compte bancaire, un message d’erreur s’affiche. Que faire ?
+Si lors de l’ajout d’un nouveau compte bancaire, le portail affiche un message d’erreur, cela signifie qu’une erreur de saisie a été commise.En effet, le module d’ajout de compte bancaire contrôle la validité de la clé RIB communiquée.Si le blocage persiste, demandez conseil à votre banque ou à la cellule e-services."

@@ -1,0 +1,2 @@
+"Quel est le type de machine adapté à mon entreprise ?
+Il existe deux catégories de machines : le Module de Contrôle de Facturation (MCF) adaptée pour les entreprises ayant un système de facturation ;l’Unité de Facturation (UF) pour les entreprises n'ayant pas préalablement de système de facturation."

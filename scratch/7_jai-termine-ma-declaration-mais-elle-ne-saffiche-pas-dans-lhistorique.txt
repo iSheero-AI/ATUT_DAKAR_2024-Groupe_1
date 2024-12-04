@@ -1,0 +1,2 @@
+"J’ai terminé ma déclaration, mais elle ne s'affiche pas dans l’historique
+Une déclaration effectuée sur le portail e-services apparait dans l’historique des déclarations uniquement si vous êtes allé jusqu’au bout du processus de télédéclaration et avez validé l’étape de prévisualisation.Si vous n’avez pas complété entièrement le processus de télédéclaration, la déclaration n’apparaitra pas dans l’historique. Veuillez donc vous assurer que vous avez bien finalisé la procédure de télédéclaration."

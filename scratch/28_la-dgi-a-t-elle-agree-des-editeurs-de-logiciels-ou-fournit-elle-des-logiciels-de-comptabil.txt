@@ -1,0 +1,2 @@
+"La DGI a-t-elle agréé des éditeurs de logiciels ou fournit-elle des logiciels de comptabilité directement compatibles avec les MECeF ?
+Il n’existe pas d’éditeurs de logiciels ou des logiciels agréés par l’Administration Fiscale. Chaque éditeur paramètre son logiciel conformément aux dispositions contenues dans le protocole de facturation obtenu à l’achat de la machine."

@@ -1,0 +1,2 @@
+"Quelles catégories d’actes à enregistrer ?
+L’acte que vous voulez enregistrer peut appartenir :-     soit à la catégorie des actes authentiques, c’est-à-dire les actes juridiques rédigés par un officier ministériel (greffier du tribunal, notaire, huissier, commissaire-priseur) ;-     soit à la catégorie des actes sous-seing privés, c’est-à-dire les actes juridiques rédigés par les parties à l’acte ou par un tiers dès lors que celui-ci n’agit pas en tant qu’officier ministériel."

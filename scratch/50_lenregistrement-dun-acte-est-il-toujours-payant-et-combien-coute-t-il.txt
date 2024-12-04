@@ -1,0 +1,2 @@
+"L’enregistrement d’un acte est-il toujours payant et combien coûte-t-il ?
+Trouver les natures d’actes dont l’enregistrement est gratis ou payant et le montant des droits, dans le tableau ci-contre (le tableau ci-dessous est attaché à un lien).Cette liste n’est pas exhaustive"

@@ -1,0 +1,2 @@
+"Comment accéder au site e-services ?
+Assurez-vous tout d’abord d’être bien connecté à Internet. L’adresse du site doit être saisie dans la barre d’adresse de son navigateur (là où il est écrit www.google.com par exemple). Assurez-vous d’avoir bien saisi : https://e-services.impots.bj puis validez avec la touche Entrée. En faisant une recherche sur un moteur de recherche web (Google, Yahoo, Bing, etc.), vous devriez également trouver le site parmi les premiers résultats."

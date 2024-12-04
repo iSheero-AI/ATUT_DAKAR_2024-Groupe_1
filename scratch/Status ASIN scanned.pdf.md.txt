@@ -1,0 +1,444 @@
+AECK, ÛG
+
+## RÉPUBLIQUE DU BÉNIN
+
+FraternitØJustice-Travail
+
+## PRÉSIDENcE DE LA RÉPUBLIQUE
+
+## DÉCRET N" 2022-324DU 1u,JUtN2o22
+
+portant crØation de l'Agence des SystŁmes d'lnformation et du NumØrique, par la fusion de l'Agence du DØveloppement du NumØrique, de I'Agence des Services et SystŁmes $\_{d'lnformation,}$ de l'Agence nationale de la SØcuritØ des SystŁmes d'lnformation et de l'Agence bØninoise du Service universel des Communications Ølectroniques et de la Poste et approbation de ses statuts.
+
+## LE PRÉSIDENT DE LA RÉPUBLIQUE, CHEF DE L'ÉTAT, CHEF DU GOUVERNEMENT,
+
+- Vu la loi n" 90-32 du 1 1 dØcembre 1 990 portant Constitution de la RØpublique du BØnin, telle que modifiØe par la loi n" 201g-40 du 07 novembre 2019 $\_{;}$
+- vu la dØcision portant proclamation, le 21 avril 2021 pæ Ia Cour constitutionnelle, des rØsultats dØfinitifs de l'Ølection prØsidentielle du 11 avril2021 ;
+- vu le dØcret n" 2021-257 du 25 mai 2021 potlant composition du Gouvernement ;
+- vu le dØcret n' 2021-401 du 28 juillet 2021 lixant la structure-ÿpe des ministŁres ;
+- vu le dØcret n" 2021-307 du 09 juin 2021 porlanl attributions, organisation et fonctionnement du MinistŁre de l'Économie et des Finances $\_{;}$
+- vu le dØcret n" 2021308 du 09 juin 202'l porlant attributions, organisation et fonctionnement du MinistŁre du NumØrique et de la Digitalisation ;
+- sur proposition conjointe du Ministre de l'Economie et des Finances et du Ministre du NumØrique et de la Digitalisation,
+- le Conseil des Ministres entendu en sa sØance du 1"' juin 2022,
+
+## DÉCRTE
+
+## Article premier
+
+ll est crØØ en RØpublique du BØnin, un Øtablissement public à caractŁre social et scientifique, dØnommØ « Agence des SystŁmes d'lnformation et du NumØrique », par la fusion de l'Agence du DØveloppement du NumØrique, de l'Agence des Services et SystŁmes d'lnformation, de l'Agence nationale de la SØcuritØ des SystŁmes d'lnformation et de l'Agence bØninoise du Service universel des Communications Ølectroniques et de la Poste.
+
+<!-- image -->
+
+## Article 2
+
+Sont approuvØs, tels qu'ils figurent en annexe au prØsent dØcret, les statuts de l'Agence des SystŁmes d'lnformation et du NumØrique.
+
+## Article 3
+
+La gestion comptable et financiŁre de l'Agence est assurØe suivant les rŁgles de gestion du droit privØ.
+
+## Article 4
+
+Les patrimoines des quatre (04) structures mentionnØes à l'article premier du prØsent dØcret, sont transmis à titre universel à l'Agence des systŁmes d'lnformation et du NumØrique.
+
+## Article 5
+
+Le Ministre de $\_{I'Economie }$et des $\_{Finances }$et le Ministre du $\_{NumØrique }$et de la Digitalisation sont chargØs, chacun en ce qui le concerne, de l'application du prØsent dØcret.
+
+## Article 6
+
+Le prØsent dØcret, qui prend effet pour compter de la date de sa signature, abroge les dispositions des dŒcrets n'2017-522 du 15 novembre 2017, n'2017-574 du 13 dØcembre $\_{2017, }$n" 2018-529 du 14 novembre 2018 et n" 2019-168 du 26 juin $\_{2019}$ ainsi que toutes autres dispositions antØrieures contraires'
+
+ll sera publiØ au Journal officiel.
+
+Fait à Cotonou,le 1e'iuin2022
+
+<!-- image -->
+
+Par le PrØsident de Ia RØPublique, Chef de l'É.tat, Chef du Gouvernement,
+
+Le Ministre du NumØrique et de la Digitalisation,
+
+<!-- image -->
+
+## Aurelie l. ADAM SOULE ZOUMAROU
+
+Le Ministre de l'Économie et des Finances,
+
+<!-- image -->
+
+AUeUÀMI§:PR6;AN 4;cS 2;CC 2;CEs 2;HAAC 2 $\_{|}$$\_{ }$ HcJ 2;MND 2;MEF 2:AUTRES MINISTERES 21 ;SGG4;JoRB 1'
+
+STATUTS DE L'AGENCE DES SYSTEMES D'INFORMATION ET DU NUMERIQUE
+
+<!-- image -->
+
+## CHAPITRE PREMIER : OBJET -RÉGIME $^{JURIDIQUE }$SIGE -TUTELLE -ATTRIBUTIONS
+
+## Article premier : Objet
+
+Les prØsentes dispositions fixent les statuts de l'Øtablissement public à caractŁre social et scientifique, dØnommØ « Agence des systŁmes d'lnformation et du NumØrique ».
+
+## Article 2 : $\_{RØgime }$juridique
+
+L'Agence des systŁmes d'lnformation et du NumØrique est dotØe de la personnalitØ morale et de l'autonomie financiŁre. Elle est rØgie par les dispositions des prØsents statuts, de la loi n' 2020-20 du 02 septembre2020 portant crØation, organisation et fonctionnement des entreprises $^{publiques }$en RØpublique du BØnin et de l'Acte uniforme de l'oHADA relatif au droit des sociØtØs commerciales et du groupement d'intØrŒt Øconomique.
+
+## Article 3 : Tutelle
+
+L'Agence des SystŁmes d'lnformation et du NumØrique est placØe sous la double tutelle du ministŁre en charge des Finances et du ministŁre en charge du NumØrique.
+
+## Article4:SiŁgesocial
+
+Le siŁge social de l'Agence des SystŁmes d'lnformation et du NumØrique est fixØ à Cotonou. ll peut Œtre transfØrØ en tout autre lieu du territoire du national par dØcision du Conseil des Ministres et sur proposition du Conseil d'administration.
+
+## Article 5 : Mission et attributions
+
+L'Agence des SystŁmes d'lnformation et du NumØrique a pour mission la mise $\_{en}$ ceuvre opØrationnelle des projets relatifs au secteur du numØrique.
+
+## A ce titre, elle est chargØe de :
+
+- -assurer la planification, l'exØcution, et l'assistance aux ministŁres sectoriels dans l'exØcution des projets de dØveloppement des infrastructures numØriques, des $^{plateformes }$de services, des $\_{systŁmes}$ d'information sØcurisØs;
+- -suivre l'exØcution des plans et des programmes relatifs à la sØcuritØ des systŁmes d'information et des rØseaux dans les secteurs public et privØ $\_{;}$
+
+<!-- image -->
+
+- $\_{conduire }$les projets de mise en place des socles infrastructurels et plateformes transversaux à toute l'administration publique, et assurer la gestion de ceux qui lui seront confiØs $\_{;}$
+- s'assurer de l'hØbergement, du contrôle et de l'accŁs sØcurisØ aux donnØes et informations critiques de l'Etat et des organismes d'importance vitale $\_{;}$
+- dØfinir et s'assurer de la mise en ceuvre des actions de gestion $\_{du}$ changement relatifs à l'exØcution des schØmas directeurs sectoriels $\_{;}$
+- contribuer à l'amØnagement numØrique du territoire national et à la rØalisation de l'accŁs/service universel ;
+- contribuer à la veille technologique et à l'innovation $\_{dans }$le secteur du numØrique;
+- contribuer à l'Ølaboration des textes lØgaux et rŁglementaires.
+
+## CHAPITRE ll : ORGANISATION ET FONCTIONNEMENT
+
+## Article 6 : Organe dØlibØrant
+
+Le Conseil des Ministres est l'organe dØlibØrant de l'Agence des SystŁmes d'lnformation et du NumØrique. ll prend les dØcisions qui relŁvent des attributions de l'actionnaire unique ou de l'assemblØe gØnØrale des actionnaires dans les sociØtØs.
+
+## Article 7 : Attributions de l'Organe dØlibØrant
+
+L'Organe dØlibØrant est compØtent Pour :
+
+- modifier les statuts dans toutes leurs dispositions ;
+- transfØrer le siŁge social en toute autre ville du territoire national ;
+- autoriser $\_{la }$transformation de I'Agence ;
+- nommer les membres du Conseil d'administration ainsi que le commissaire aux comptes ;
+- statuer sur les Øtats financiers de synthŁse de chaque exercice ;
+- dØcider de l'affectation du rØsultat ;
+- statuer sur le rapport du commissaire aux comptes sur les conventions conclues entre $\_{l'Agence }$et les dirigeants sociaux et approuver ou refuser d'approuver lesdites conventions.
+
+<!-- image -->
+
+## Article 8 : Conseil d'administration
+
+L'Agence des SystŁmes d'lnformation et du NumØrique est administrØe par un Conseil d'adm inistration.
+
+## Article 9 : Attributions du Conseil d'administration
+
+Le conseil d'administration est dotØ des pouvoirs les plus Øtendus pour dØterminer les orientations de l'activitØ de l'Agence et veiller, en toutes circonstances, à leur mise en æuvre.
+
+A ce titre, il est chargØ notamment de :
+
+- -dØfinir les objectifs de l'Agence et l'orientation qui doit Œtre donnØe à son administration;
+- -adopter l'organigramme et les procØdures de l'Agence $\_{;}$
+- -adopter le budget, les plans $\_{d'investissement }$ et plans $\_{stratØgiques }$$\_{de}$ dØveloppement de l'Agence $\_{;}$
+- -assurer le contrôle permanent de la gestion assurØe par le Directeur gØnØral ;
+- -examiner les rapports d'activitØs de l'Agence ainsi que les rapports annuels de performance;
+- -arrŒter les Øtats financiers Øtablis aprŁs chaque exercice $^{par }$le Directeur gØnØral ;
+- -adopter les plans de passation en ce qui concerne des marchØs publics et autoriser les autres conventions d'importance significative passØes par $\_{le}$ Directeur gØnØral ;
+- -approuver le rŁglement intØrieur proposØ par le Directeur gØnØral ;
+- -approuver la grille de rØmunØration du personnel de l'Agence $\_{;}$
+- -recruter le Directeur gØnØral et dØcider de sa rØvocation en cas de manquement ou insuffisances de rØsultats $\_{;}$
+- -proposer à l'AutoritØ de tutelle, le cas ØchØant, la transformation ou la dissolution de l'Agence ainsi que toute modification des statuts $\_{;}$
+- -autoriser les dons et legs.
+
+## Article 10: Composition du Conseil d'administration
+
+Le Conseil d'administration de l'Agence est composØ de cinq (0S) membres à savoir:
+
+- -un (01) reprØsentant de la PrØsidence $\_{;}$
+- -deux (02) reprØsentants du ministŁre en charge du NumØrique;
+
+<!-- image -->
+
+- deux (02) reprØsentants du ministŁre en charge des Finances
+
+## Article '11 : Organisation du Conseil d'administration
+
+Le conseil peut confier à un ou plusieurs de ses membres des missions permanentes ou temporaires qu'il dØtermine et leur dØlØguer les pouvoirs qu'il juge convenables. $\_{ll}$ peut dØcider la crØation de comitØs chargØs d'Øtudier les questions soumises à son examen.
+
+## Article 12 : Nomination et mandat des membres du Conseil d'administration
+
+Les membres du Conseil d'administration sont nommØs par dØcret pris en Conseil des Ministres, sur proposition des structures reprØsentØes, pour un mandat de trois (03) ans renouvelables.
+
+La durØe du mandat expire à l'issue de la session du Conseil d'administration ayant statuØ sur les comptes du dernier $\_{exercice }$ de leur mandat, sauf nomination de nouveaux membres au terme des trois (03) ans.
+
+## Article $\_{13 : PrØsidence }$ du Conseil d'administration
+
+Le prØsident du Conseil d'administration est notamment chargØ de :
+
+- -veiller à ce que le Conseil d'administration assume le contrôle de la gestion confiØe au Directeur gØnØral et, à cet effet, effectue à tout moment, les vØrifications qu'il estime utiles à I'exercice de sa mission $\_{;}$
+- -convoquer les rØunlons du Conseil d'administration $\_{;}$
+- -coordonner les relations des membres du Conseil avec Ia direction gØnØrale et notamment les demandes d'informations.
+
+La durØe du mandat du prØsident du Conseil d'administration ne peut excØder celle de son mandat d'admin istrateu r.
+
+En cas d'absence ou d'empŒchement du $^{prØsident, }$le Conseil dØsigne à chaque sØance, celui de ses membres qui prØsidera la sØance.
+
+## Article 14 : Vacance de poste d'administrateur
+
+En cas de vacance de siŁge par mutation, dØmission, dØcŁs ou tout autre motif, le membre concernØ est remplacØ par l'autoritØ ou la structure reprØsentØe dans un dØlai de trente (30) $^{jours, }$à compter de la date de survenance de l'ØvØnement ayant provoquØ la vacance.
+
+<!-- image -->
+
+Le membre remplaçant poursuit le mandat en cours pour le reste de sa durØe. ll est nommØ par dØcret pris en Conseil des Ministres.
+
+## Article $\_{15 : PØriodicitØ }$ des rØunions du Conseil d'administration
+
+Le conseil d'adminiskation se rØunit aussi souvent que nØcessaire, sur convocation du prØsident qui fixe l'ordre du jour de la rØunion.
+
+Toutefois, les administrateurs constituant le tiers au moins des membres du consell d'administration, $^{peuvent, }$en $\_{indiquant }$$\_{l'ordre }$ du jour de la sØance, convoquer le conseil d'administration, si celui-ci ne s'est pas rØuni depuis plus de deux (02) mois.
+
+La convocation, l'ordre du jour et les dossiers correspondants sont adressØs à chaque membre au moins sept (07) iours avant la rØunion par courrier ou courriel avec accusØ de rØception. Ce dØlai peut Œtre rØduit en cas d'urgence.
+
+Le conseil se rØunit au siŁge de l'Agence. ll peut toutefois se rØunir en tout autre lieu, sur consentement exprŁs de la majoritØ des administrateurs. ll peut Øgalement se rØunir à distance, par le biais de moyens techniques, notamment par visioconfØrence, sous rØserve que ceux-ci permettent de garantir la fiabilitØ et l'intØgritØ des Øchanges.
+
+## Article $\_{16 : }$ Quorum de rØunion du Gonseil d'administration
+
+Le conseil d'administration ne siŁge valablement que si tous les membres ont ØtØ rØguliŁrement convoquØs et si Ia moitiØ (%) au moins de ses membres est prØsente ou reprØsentØe.
+
+En cas d'absence du prØsident, le Conseil dØsigne en son sein un prØsident de sØance.
+
+## Article 17 : RŁgles de reprØsentation
+
+Un administrateur ne peut Œtre reprØsentØ que par un autre administrateur. De mŒme, un administrateur ne peut reprØsenter qu'un seul administrateur.
+
+## Article $\_{18 : MajoritØ }$ de prise de dØcision
+
+Les dØcisions du Conseil d'administration sont prises à la majoritØ absolue des voix des membres prØsents ou reprØsentØs.
+
+En cas de partage des voix, celle du prØsident est prØpondØrante.
+
+Les dØcisions du Conseil d'administration sont constatØes par procŁs-verbal consignØ dans un registre spØcial, cotØ et paraphØ au niveau du tribunal du lieu du siŁge de l'Agence. Le procŁs-verbal est signØ par le prØsident et un administrateur dØsignØ lors de chaque sØance du Conseil.
+
+<!-- image -->
+
+## Article 19 : SecrØtariat du Conseil d'administration
+
+Le Directeur gØnØral de l'Agence assiste aux rØunions du Conseil d'administration avec voix consultative.
+
+ll assure le secrØtariat des rØunions du Conseil d'administration.
+
+## Article 20 : Assistance de personnes ressources
+
+Le Conseil d'administration peut faire appel à toute personne susceptible d'apporter son expertise dans un domaine particulier et de l'Øclairer au cours de ses travaux. La personne ressource n'a pas voix dØlibØrative et sa prØsence n'est requise qu'à l'occasion des discussions portant sur le sujet le concernant.
+
+## Article 21 : lndemnitØs de fonction des administrateurs
+
+Les membres du Conseil d'administration bØnØficient d'indemnitØs de fonction et autres avantages conformØment aux textes en vigueur.
+
+## Article 22: ResponsabilitØ personnelle des membres du Conseil d'administration
+
+Les membres du Conseil d'administration sont personnellement responsables des infractions aux lois et rŁglements commises dans l'exercice de leurs fonctions.
+
+## Article 23 : Autres modalitØs de fonctionnement du Conseil d'administration
+
+Les conditions de fonctionnement du Conseil d'administration ainsi que les modalitØs d'adoption de ses dØcisions sont prØcisØes dans le rŁglement intØrieur de l'Agence.
+
+## CHAPITRE lll : ORGANE DE GESTION
+
+## Article 24 : Attributions du Directeur gØnØral
+
+Le Directeur gØnØral de l'Agence assure la gestion quotidienne et la bonne marche de l'Agence. ll est responsable de l'exØcution, de la coordination et de la gestion de ses activitØs et de son dØveloppement dans le respect des orientations validØes par $\_{le}$ Conseil d'administration.
+
+A ce titre, le Directeur gØnØral :
+
+- -est l'ordonnateur du budget de l'Agence $\_{;}$
+- -coordonne et Øvalue les activitØs de I'Agence $\_{;}$
+
+<!-- image -->
+
+- $^{procŁde }$au recrutement et au licenciement du personnel permanent $\_{ou}$ contractuel de l'Agence, dans le respect de la rØglementation en vigueur;
+- Ølabore et fait adopter les documents de gestion de l'Agence par le conseil d'administration $\_{;}$
+- reprØsente l'Agence dans tous les actes de la vie civile, notamment à l,Øgard des tiers ;
+- veille à l'application correcte des procØdures techniques, administratives, financiŁres et comptables.
+
+## Article 25 : Nomination et rØvocation du Directeur gØnØral
+
+Le recrutement, la nomination et la rØvocation du Directeur gØnØral de I'Agence sont dØcidØs par le conseil d'administration et prononcØs par le conseil des Ministres.
+
+## Article 26 : RØmunØration du Directeur gØnØral
+
+Les modalitØs et le montant de la rØmunØration du Directeur gØnØral sont fixØs par le Conseil d'administration, conformØment aux dispositions rØglementaires en vigueur.
+
+## Article 27 $\_{: Organisation }$ de la Direction gØnØrale
+
+Les directions techniques ou services, leurs attributions, leur organisation sont fixØes par dØcision du Directeur gØnØral, aprŁs approbation de l'organigramme et des procØdures par le Conseil d'administration.
+
+Un directeur technique peut avoir rang de directeur gØnØral adjoint.
+
+## Article 28 : Nomination des directeurs
+
+Les directeurs techniques sont nommØs par dØcision du Directeur gØnØral aprŁs approbation du Conseil d'administration.
+
+Toutefois, la gestion financiŁre et comptable de l'Agence est assurØe par un directeur administratif et financier, $\_{recrutØ }$par la direction gØnØrale suivant les rŁgles qui rØgissent le recrutement du personnel intervenant dans la $\_{chaîne }$ des dØpenses publiques. ll est soumis à la procØdure d'accrØditation en qualitØ de comptable public, par le ministŁre en charge des Finances.
+
+## Article 29 : Personne responsable des marchØs publics
+
+La Personne responsable des marchØs publics, habilitØe à signer les marchØs passØs par l'Agence, est chargØe de mettre en ceuvre la procØdure de passation jusqu'à la
+
+<!-- image -->
+
+dØsignation de l'attributaire et l'approbation du marchØ dØfinitif. Elle organise et suit les rØceptions de travaux, de fournitures et de services objets de marchØs publics.
+
+## Article 30: $\_{Nomination }$$\_{de la }$ personne responsable des marchØs publics
+
+La personne responsable des marchØs publics est nommØe parmi les cadres de la catØgorie A Øchelle $\_{1 ou }$ Øquivalent, justifiant idØalement d,une expØrience d,au moins quatre (04) ans dans le domaine des marchØs publics. Elle est recrutØe par la direction gØnØrale suivant les rŁgles qui rØgissent le recrutement du personnel intervenant dans la chaîne des dØpenses publiques.
+
+## Article $\_{31 : Commission }$ d,ouverture et d'Øvaluation des offres
+
+La Personne responsable des marchØs publics est assistØe dans l,exØcution de $\_{sa}$ mission par une commission d'ouverture et d'Øvaluation des offres. Elle assure sa mission conformØment à la rØglementation en vigueur.
+
+## Article 32 : Nomination des membres de la commission d,ouverture $\_{et}$ d'Øvaluation des offres
+
+Les membres de la commission d'ouverture et d'Øvaluation des offres sont nommØs conformØment à la rØglementation en vigueur.
+
+## Article 33 : Conventions rŁglementØes ou interdites
+
+Toute convention entre l'Agence et l'un de ses administrateurs ou le Directeur gØnØral est soumise à l'autorisation prØalable du Conseil d,administration.
+
+ll $\_{en }$$\_{est de }$$\_{mŒme }$ des conventions auxquelles un administrateur ou le Directeur gØnØral est directement intØressØ ou dans lesquelles il $\_{traite }$$\_{avec }$$\_{l,Agence, }$$\_{par}$ personne interposØe.
+
+L'autorisation n'est pas nØcessaire lorsque les conventions portent sur des opØrations courantes conclues dans les conditions normales. Les opØrations courantes sont celles effectuØes par l'Agence, d'une maniŁre habituelle, dans le $\_{cadre }$ de ses activitØs. Les conditions normales sont $\_{celles }$qui sont appliquØes, pour $\_{des}$ conventions semblables, non seulement par l'Agence, mais Øgalement par les autres entitØs du mŒme secteur d'activitØ.
+
+ll est interdit aux administrateurs, au Directeur gØnØral, à leurs conjoints, ascendants ou descendants, à peine de nullitØ du contrat et sans prØjudice de leur responsabilitØ de contracter, sous quelque forme que ce soit, des emprunts auprŁs de I'Agence, de
+
+<!-- image -->
+
+se faire consentir par elle un dØcouvert en compte courant ou autrement, ainsi que de faire cautionner ou avaliser par elle leurs engagements vis-à-vis des tiers.
+
+## CHAPITRE IV: ANNÉE SOCIALE, GESTION, COMPTES SOCIAUX ET CONTRÔLE DE GESTION
+
+## Article 34 : AnnØe sociale
+
+L'annØe sociale correspond à l'annØe civile
+
+## Article 35 : Ressources de I'Agence
+
+Les ressources de l'Agence sont constituØes :
+
+- -des apports en nature des biens meubles et immeubles appartenant à I'Etat ou à ses dØmembrements et mis à sa disposition ;
+- -des dotations annuelles de I'Etat dØcidØes dans le cadre de la loi de Finances sur proposition du conseil des Ministres. ces dotations sont inscrites dans le budget de l'Agence ;
+- -des contributions et taxes parafiscales fixØes par les dispositions lØgales et rŁglementaires ;
+- -des $\_{produits issus de }$la fourniture de services, en $\_{ligne avec }$le champ d'intervention de I'agence ;
+- -des ressources mises à disposition par les partenaires au dØveloppement en vertu des conventions ou accords conclus avec le Gouvernement du BØnin ;
+- -des dons et legs $\_{;}$
+- -de toutes autres ressources acquises dans le cadre de ses activitØs'
+
+Les ressources financiŁres de l'Agence sont logØes dans des comptes ouverts en son nom dans les livres du TrØsor public ou dans les banques primaires'
+
+## Articte 36 : ComPtabilitØ
+
+La comptabilitØ de l'Agence est tenue en conformitØ avec les dispositions du droit comptable de I'OHADA.
+
+Elle est soumise au contrÔle d'un commissaire aux comptes. Les comptes de I'Agence des systŁmes d'lnformation et du NumØrique ne relŁvent pas du contrôle juridictionnel de la Cour des ComPtes.
+
+<!-- image -->
+
+## Article 37 : Programme d'activitØs et budget prØvisionnel
+
+Le Directeur gØnØral soumet au Conseil d'administration un programme d'activitØs, les comptes d'exploitation prØvisionnels, et un budget d'investissement pour $\_{l'annØe}$ suivante, trois (03) mois au plus tard avant la fin de l'exercice courant.
+
+## Article 38 : Vote du budget
+
+Le budget de l'Agence est votØ en Øquilibre des recettes et des dØpenses. ll peut nØanmoins comporter un excØdent de financement.
+
+## Article 39 : Modification des documents budgØtaires
+
+En cas d'insuffisances majeures notØes dans des documents budgØtaires, le ministre chargØ des Finances peut demander au Conseil d'administration d'y introduire, le cas ØchØant, toutes les modifications tendant au respect de l'Øquilibre financier de l'Agence et au respect de ses engagements contractuels Øventuels à l'Øgard de l'Etat.
+
+## Article 40 : OpØrations de clôture d'exercice comptable
+
+Dans un dØlai de trois (03) mois à compter de la clôture de l'exercice comptable, le Directeur gØnØral Øtablit les Øtats financiers annuels, produit son rapport d'activitØs, prØpare le projet de rapport de gestion et les soumet à l'examen du Conseil d'administration en vue de l'arrŒtØ des comptes.
+
+## Article 4'l : Contrôle du Conseil d'administration
+
+L'Agence est soumise aux contrôles prØvus par les textes en vigueur.
+
+Le Conseil d'administration $\_{vØrifie le respect, }$par la Direction gØnØrale, des orientations qu'il $\_{a }$ fixØes.
+
+## Article 42 : Contrôle des autoritØs de tutelle
+
+Les autoritØs de tutelle s'assurent du contrôle de la qualitØ de la gestion de l'Agence à travers ses organes habilitØs.
+
+Le contrôle est exercØ essentiellement pour vØrifier si les objectifs fixØs à I'Agence sont atteints et conformes aux grandes orientations dØfinies par le Gouvernement. La tutelle n'empiŁte pas sur les rôles et attributions du Conseil d'administration et du Conseil des Ministres fixØs par la loi et les prØsents statuts.
+
+<!-- image -->
+
+## Article 43 : Contrôle du ministŁre en charge des Finances
+
+L'Agence est sous la surveillance Øconomique et financiŁre du ministŁre en charge des Finances.
+
+## 1. Au titre du contrôle permanent de sa gestion, l'Agence :
+
+- -reçoit du ministŁre en charge des Finances, des demandes d'informations pØriodiques ou des missions $\_{visant }$le contrôle des donnØes sur les performances techniques, la rentabilitØ de la gestion Øconomique et financiŁre, le contrôle de la soutenabilitØ des engagements financiers et l'Øquilibre de leur trØsorerie ;
+- -se soumet au contrôle relatif aux dispositifs prudentiels permettant d'anticiper et de prØvenir les difficultØs $\_{financiŁres }$ou les Øventuels risques de banqueroute ou de dØpôt de bilan.
+
+## 2. Au titre du contrôle des documents budgØtaires :
+
+- - l'Agence soumet une demande motivØe au $\_{ministŁre }$en charge des Finances avant d,intØgrer le montant de subvention convenu dans ses comPtes PrØvisionnels ;
+- -leDirecteurgØnØraldel'AgencetransmetauministrechargØdes Finances,auplustardlel5octobredel'exerciceencours'lebudget approuvØparleConseild'adminiskationautitredel,exercicebudgØtaire suivant.
+
+## 3. Au titre du contrôle des Øtats financiers :
+
+Les Øtats financiers annuels de l'Agence, accompagnØs des rapports du commissaireauxcomptessonttransmisdanslesdØlaisrØglementairesau ministŁreenchargedesFinances,àlaPrØsidencedelaRØpublique,età l'approbation du Conseil des Ministres'
+
+## Article44:ContrôledesjuridictionsfinanciŁresetcontrôleparlementaire
+
+L,Agence est soumise, conformØment aux dispositions lØgales et rØglementaires, aux contrÔlesdesjuridictionsdescomptesetdesorganescompØtentsduParlement.
+
+<!-- image -->
+
+## CHAPITRE V : COMMISSARIAT AUx COMPTES
+
+## Article 45 : Contrôle du commissaire aux comptes
+
+L'Agence est soumise aux contrôles du commissaire aux comptes conformØment aux dispositions prØvues par les textes en vigueur et les prØsents statuts.
+
+## Article 46 : Nomination du commissaire aux comptes
+
+ll est nommØ auprŁs de l'Agence, un commissaire aux comptes conformØment aux dispositions en vigueur.
+
+## Article 47 : Attributions du commissaire aux comptes
+
+Le commissaire aux comptes Ømet sur les comptes annuels, une opinion indiquant qu'ils sont ou non rØguliers et sincŁres et qu'ils donnent une image fidŁle des rØsultats, de la situation financiŁre et du patrimoine de l'Agence à la fin de l'exercice'
+
+ll adresse son rapport directement et simultanØment au Directeur gØnØral de I'Agence et au prØsident du Conseil d'administration.
+
+## Article 48 : Participation du commissaire aux comptes aux rØunions du conseil d'administration
+
+Le Commissaire aux comptes assiste aux rØunions du Conseil d'administration avec voix consultative. ll est astreint au Secret professionnel pour les faits, les actes et renseignements dont il a pu avoir connaissance dans ses fonctions'
+
+## CHAPITRE Vl : TRANSFORMATION ET DISSOLUTION DE L'AGENCE
+
+## Article 49 : Transformation de l'Agence
+
+sur rapport motivØ du Directeur gØnØral, le conseil d'administration peut proposer la transformation de l'Agence.
+
+La proposition est soumise au PrØsident de la RØpublique qui en saisit le conseil des Ministres.
+
+Le cas ØchØant, la valeur nette de I'Agence est Øtablie par un expert indØpendant La transformation de l'Agence n'entraîne pas sa dissolution'
+
+<!-- image -->
+
+## Article 50 : Dissolution de I'Agence
+
+La dissolution de l'Agence est dØcidØe par le Conseil des Ministres sur rapport du prØsident du Conseil d'administration. Le rapport propose un plan de liquidation qui comprend les aspects patrimoniaux et sociaux.
+
+Le dØcret prononçant la dissolution de l'Agence fixe les conditions et modalitØs de la liquidation.
+
+La liquidation est clôturØe par dØcret pris en Conseil des Ministres, sur rapport du liquidateur.
+
+<!-- image -->
+
+\

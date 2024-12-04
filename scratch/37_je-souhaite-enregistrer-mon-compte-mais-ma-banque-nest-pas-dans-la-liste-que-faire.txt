@@ -1,0 +1,2 @@
+"Je souhaite enregistrer mon compte mais ma banque n’est pas dans la liste. Que faire ?
+Seules les banques partenaires de la DGI pour le télépaiement sont disponibles. Merci de prendre contact avec la cellule e-services, ou avec votre banque pour avoir plusd’information sur les dates de disponibilités du télépaiement pour cet établissement bancaire."

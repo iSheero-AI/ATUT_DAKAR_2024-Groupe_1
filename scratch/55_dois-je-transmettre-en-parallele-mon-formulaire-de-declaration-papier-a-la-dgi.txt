@@ -1,0 +1,2 @@
+"Dois-je transmettre en parallèle mon formulaire de déclaration papier à la DGI ?
+Non.Le portail e-services a pour but de dématérialiser l’intégralité des déclarations et des paiements. Ainsi, une fois une déclaration transmise sur le portail, vous ne devez pas transmettre de déclaration papier à la DGI."

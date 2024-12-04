@@ -1,0 +1,2 @@
+"Y a-t-il un risque de perdre mes documents si le système de la DGI s’arrête de fonctionner ?
+Le système e-services s’appuie sur une infrastructure sécurisée moderne disposant de procédures de sauvegarde automatiques et régulières, ainsi que de sauvegardes manuelles complémentaires. Même en cas de circonstances exceptionnelles qui pourraient mener à une indisponibilité temporaire du système, la DGI vous garantit la conservation et la confidentialité de ses données en toutes circonstances."

@@ -1,0 +1,2 @@
+"Pourquoi mon historique de déclarations est vide ?
+Les déclarations s’affichant dans l’historique correspondent seulement aux télédéclarations effectuées sur le portail e-services.Toutes les déclarations effectuées préalablement au lancement du nouveau portail ne seront pas accessibles."

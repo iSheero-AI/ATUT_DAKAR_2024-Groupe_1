@@ -1,0 +1,269 @@
+AECK/ WG
+
+## REPUBLIQUE OU BENIN
+
+FratemitØ-Justice-Travait
+
+## PRESIDENCE DE LA REPUBLIQUE
+
+## DÉCRET $^{N. $\_{2o2o }$}$24g DU 22 $\_{AvRtL }$$\_{2o2o}$
+
+portant conditions d'identification des utilisateurs de services de communications Ølectroniques.
+
+RÉPUBLIQUE,
+
+## LE PRÉSIDENT DE LA CHEF DE L'ÉTAT, CHEF DU GOUVERNEMENT,
+
+- la loi n" 90-32 du $\_{11 dØcembre }$ 1990 portant constitution de la RØpublique du BØnin, telle que modifiØe par la loi n" 2O1g-4:O du 07 novemb re 2019 $\_{;}$ Vu
+- vu la loi n" 2017-20 du 20 avril 201g portant code du $\_{numØrique }$ en $\_{RØpublique }$$\_{du}$ BØnin $\_{;}$
+- la loi n' 94-009 du 28 juillet 1994 portant crØation, organisation et fonctionnement des offices à caractŁre social, culturel et scientifique $\_{;}$ vl,
+- la dØcision portant proclamation, le 30 mars 2016 par la cour constitutionnelle, des rØsultats dØfinitifs de l'Ølection prØsidentielle du 20 mars 2016 $\_{;}$ VU
+- vu le dØcret n" 2019-396 Gouvernement $\_{;}$ du 05 septembre 2019 portant $\_{composition }$ du
+- vu le dØcret n'2019-430 du 02 octobre 2019 fixant $\_{la }$ structure-type des ministŁres ;
+- VU le dØcretn'2019-545 du $\_{11 }$$\_{dØcembre }$$\_{2019 }$$\_{portant }$$\_{attributions, }$$\_{organisation }$$\_{et}$ fonctionnement du MinistŁre du NumØrique et de la Digitalisation $\_{;}$
+- vtJ le dØcret n' 2019-389 du 04 septembre $\_{201 }$ 9 portant approbation du cahier des charges-type applicable aux opØrateurs de tØlØphonie mobile $\_{;}$
+- vu le dØcret n' 2018-206 du 06 juin 2018 portant attributions, organisation $\_{et}$ fonctionnement de I'Agence NatioÀale d'ldentification des personnes (Àrrrrp) ;
+- sur proposition de la Ministre du NumØrique et de la Digitalisation,
+- le Conseil des Ministres entendu en sa sØance du 22 avril2O2O,
+
+## DÉcRTE
+
+## CHAPITRE PREMIER -DISPOSITIONS GENERALES
+
+## Article premier
+
+Le prØsent dØcret fixe les $\_{conditions }$$\_{d'identification }$ des $\_{utilisateurs }$ des services de communications Ølectroniques en RØpublique du BØnin.
+
+## Article $\_{2}$
+
+Les dispositions du prØsent dØcret s'appliquent aux personnes $^{physiques }$et morales exploitant un rØseau de communications Ølectroniques ouvert au public ou fournissant un service de communications Ølectroniques au public.
+
+## Article $\_{3}$
+
+Au sens du prØsent dØcret, on entend par carte SIM identifiØe, la carte SIM identifiØe $\_{au}$ nom de I'utilisateur dans les conditions dØfinies par les dispositions du prØsent dØcret.
+
+Pour les termes et expressions non dØfinis dans le prØsent article, il sera fait rØfØrence aux dØfinitions contenues dans la loi n" 20i7 -20 du 20 avril 201g portant code du numØrique en RØpublique du BŒnin.
+
+## Article $\_{4}$
+
+Les opØrateurs procŁdent à l'identification de tous leurs utilisateurs.
+
+Aucun utilisateur ne peut bØnØficier d'un service de $\_{communications }$ Ølectroniques $\_{s,il}$ n'est prØalablement identifiØ par I'opØrateur concernØ dans les conditions dØfinies par les dispositions du prØsent dØcret.
+
+L'obligation de $\_{recueillir }$ des donnØes d'identification sur les $\_{utilisateurs }$ de services $\_{de}$ communications Ølectroniques n'induit aucune incidence financiŁre à la charge de ces derniers.
+
+Lors de la souscription au service, $^{l'utilisateur }$est informØ des risques encourus en cas d'utilisation frauduleuse desdits services et des consØquences qui peuvent en dØcouler.
+
+## Article $\_{5}$
+
+En coordination avec les opØrateurs, I'Agence Nationale d'ldentification des personnes met en place les dispositifs techniques $^{nØcessaires }$à la vØrification et à la $\_{confirmation}$ instantanØes par l'agence, du numØro personnel d'identification ou du numØro personnel d'identification de rØsident des utilisateurs de services de communications Ølectroniques ainsi que de leurs identitØs.
+
+Les opØrateurs assurent la journalisation des requŒtes de vØrification envoyØes à I'agence et des rØponses reçues. ces donnØes sont conservØes dans les mŒmes conditions que celles prescrites à l'article $\_{12 }$ du prØsent dØcret.
+
+La $^{vØrification }$des $\_{informations }$ $^{visØes }$au premier alinØa du prØsent article n,est pas requise pour les Øtrangers de passage au BØnin.
+
+Les prestations fournies par I'agence prØvues au prØsent article aux fins de l,idenflfication des utilisateurs de services de $\_{communications }$ Ølectroniques donnent lieu au paiement par les opØrateurs, d'une redevance au profit de $\_{l,agence, }$ dont le monlant est fixØ par arrŒtØ conjoint des $\_{ministres }$$\_{chargØ }$ des Finances, de ra $\_{sØcuritØ }$ pubrique et des Communications Ølectron iques.
+
+## CHAPITRE II -DISPOSITIONS COMMUNES
+
+## Article $\_{6}$
+
+Tout $^{opØrateur }$est responsable de $\_{I'identification }$ des utilisateurs sur l,ensemble de son circuit et $\_{rØseau }$ de distribution. ll met à la disposition de ses distributeurs le $\_{matØriel}$ requis pour l'identification des utilisateurs.
+
+## Article $\_{7}$
+
+Aux fins de l'identification, tout opØrateur exige de tout utilisateur personne physique, au moment de la souscription à ses services, la prØsentation de I'original de I'une des piŁces suivantes en cours de validitØ
+
+## Pour les personnes physiques :
+
+- -la carte nationale d'identitØ pour les ressortissants de l'espace de la communautØ Øconomique des Etats de l'Afrique de l'Ouest $\_{;}$
+- -le passeport $\_{;}$
+- la carte consulaire $\_{;}$
+- -tout autre document d'identification reconnu en RØpublique du BØnin et comportant la photo de l'intØressØ.
+
+## Pour les personnes morales :
+
+- -l'extrait du registre de commerce, pour les entreprises $\_{;}$
+- le rØcØpissØ d'enregistrement, pour les associations et organisations non gouvernementales.
+
+La fourniture du service à des utilisateurs non identifiØs est interdite.
+
+## Article $\_{8}$
+
+Tout opØrateur recueille auprŁs de tout utilisateur, prØalablement à la fourniture du service, les informations minimales suivantes :
+
+- -nom et prØnoms de l'utilisateur tels $^{qu'inscrits }$sur le $\_{document}$ d'identification prØsentØ ainsi que ceux du souscripteur dans le cas oø celui-ci souscrit au service pour le compte d'autrui $\_{;}$
+- -les rØfØrences du document d'identification prØsentØ ;
+- -NumØro Personnel d'ldentification de l'utilisateur bØninois ou Ie NumØro Personnel d'ldentification de RØsident de l'utilisateur Øtranger rØsident $\_{;}$
+- numØro du document de voyage de l'utilisateur Øtranger de passage au BØnin $\_{;}$
+- la nature, la date d'Øtablissement, le lieu d'Øtablissement et l'autoritØ d'Øtablissement du document $\_{d'identification, ainsi }$ que, le cas ØchØant, la date d'expiration du document $\_{;}$
+- -profession ou secteur d'activitØ $\_{;}$
+- -lieu de rØsidence $\_{;}$
+- personne à prØvenir en cas de besoin, notamment ses nom, prØnom et numØro de tØlØphone.
+
+La personne qui souscrit au service d'un opØrateur pour le compte d'autrui le prØcise au moment de la souscription, en prØsentant une piŁce d'identitØ du bØnØficiaire du service, la sienne ainsi que la procuration reçue à cette fin. Ces trois $^{piŁces }$font l'objet d'enregistrement par l'opØrateur.
+
+La prØsence physique est obligatoire pour I'identification de l'utilisateur Øtranger, de passage au BØnin.
+
+## Article 9
+
+Pour les personnes morales, toute souscription aux services fait l'objet d,une demande adressØe à I'opØrateur par le reprØsentant lØgal de la personne morale.
+
+L'opØrateur procŁde à l'identification de la personne physique dØsignØe dans la demande comme celle devant bØnØficier du service de communications $\_{Ølectroniques,}$ conformØment aux dispositions du prØsent dŒcret.
+
+Les informations ainsi recueillies sont complØtØes par les informations suivantes sur la personne morale :
+
+- -les rØfØrences de la lettre de demande $\_{;}$
+- la raison sociale $\_{;}$
+- -le siŁge social $\_{;}$
+- le numØro d'immatriculation au registre de commerce et du crØdit mobilier, pour les entreprises $\_{;}$
+- -le numØro d'enregistrement, $^{pour }$les associations et organisations $\_{non}$ gouvernementales.
+
+Les personnes morales sont responsables des donnØes fournies et ont I'obligation de demander la rØsiliation des services auprŁs de l'opØrateur, en cas de cessation d'activitØ ou de dissolution.
+
+## Article $\_{10}$
+
+Aucun opØrateur ne peut fournir ses services à un acquØreur mineur, sans autorisation parentale.
+
+outre, les donnØes d'identification du mineur, le parent ayant dØlivrØ l,autorisation est identifiØ et ses donnØes personneiles Øgarement enregistrØes. $\_{rr }$ rØpond avec $\_{re }$ mineur de l'utilisation du service.
+
+## Article $\_{11}$
+
+Les donnØes d'identification des utilisateurs sont transfØrØes à l'AutoritØ de RØgulation des Communications Electroniques et de la Poste et au Centre de Documentation de SØcuritØ Publique du ministŁre chargØ de la SØcuritØ publique.
+
+Les spØcifications techniques, les protocoles, la pØriodicltØ, les normes et les moclalitØs de transfert de $^{donnØes }$sont dØfinis par dØcision de |AutoritØ de RØguration des Communications Ølectroniques et de la poste.
+
+## Article $\_{12}$
+
+Tout opØrateur conserve les donnØes d'identification des $^{abonnØs }$et les copies lisibles des piŁces $^{justificatives }$y $\_{reratives, }$$\_{ainsi }$$\_{que }$$\_{res }$$\_{donnØes }$$\_{reratives }$$\_{aux }$$\_{abonnØs }$$\_{aussi}$ longtemps que labonnØ reste actif sur son $\_{rØseau. }$pour res abonnØs inactifs, $\_{ra}$ suppression desdites donnØes peut intervenir cinq (5) ans aprŁs $\_{ra }$ derniŁre utirisation du service.
+
+Les opØrateurs conservent les donnØes relatives au trafic liØs aux communications de leurs abonnØs pendant une durØe de cinq (5) ans à partir de ra date de ra communication.
+
+<!-- image -->
+
+PrØalablement à la destruction desdites informations de sa base, I'opØrateur en transmet une copie à l'AutoritØ de RØgulation des communications Ølectroniques et de la poste.
+
+## Article 13
+
+Les opØrateurs, leurs distributeurs et leurs personnels collectent et traitent les donnØes à caractŁre personnel conformØment à la lØgislation et à la rŁglementation en vigueur.
+
+## Article 14
+
+Les opØrateurs rØpondent, conformØment aux dispositions lØgales et rØglementaires, aux injonctions et à toutes les demandes d'informations Ømanant des autoritØs judiciaires et administratives compØtentes, relatives aux donnØes de leurs utilisateurs dans un dØlai de trois (03) jours ouvrables.
+
+L'AutoritØ de RØgulation des communications Ølectroniques et de la poste met en æuvre les moyens nØcessaires à la bonne collaboration entre les opØrateurs et les autoritØs judiciaires.
+
+## CHAPITRE III- DISPOSITIONS PARTICULIERES AUX OPERATEURS DE RESEAUX ET SERVICES DE COMMUNICATIONS ELECTRONIQUES MOBILES ET AUX OPERATEURS RECOURANT AUX CARTES SIM
+
+## Article 15
+
+Les opØrateurs de rØseaux et de services de communications Ølectroniques mobiles valident l'encodage des donnØes d'identification requises avant l'activation de la carte stM.
+
+Les opØrateurs de rØseaux et de services de communications Ølectroniques mobiles fournissent des cartes SIM compatibles avec les fonctions cryptographiques.
+
+## Article 16
+
+Les cas de pertes ou de vol de cartes SIM font l'objet de dØclarations aux autoritØs compØtentes par le titulaire, conformØment à la lØgislation et à la rŁglementation en vigueur.
+
+En outre, le titulaire de la carte SIM perdue ou volØe en fait la dØclaration, sans dØlai, à l'opØrateur qui est tenue de dØsactiver immØdiatement cette carte SlM. Le cas ØchØant, lorsque le titulaire en fait la demande, I'opØrateur lui attribue une nouvelle carte SIM liØe à son numØro.
+
+A dØfaut des diligences mentionnØes aux premier et deuxiŁme alinØas du prØsent article, le titulaire continue d'Œtre considØrØ comme l'unique utilisateur et est tenu responsable, en cas d'utilisation $\_{frauduleuse }$ou malveillante de ladite carte SlM, en application des dispositions du code pØnal.
+
+## Article 17
+
+Est interdite toute utilisation de carte SIM identifiØe au nom d'une personne dØcØdØe
+
+Le transfert de carte SIM est prØalablement notifiØ à l'opØrateur qui vØrifie I'identitØ du cØdant et du nouvel utilisateur.
+
+La carte SIM est identifiØe au nom du nouvel utilisateur suivant les modalitØs prØvues au prØsent dØcret.
+
+## Article 18
+
+Sur injonction de l'AutoritØ de RØgulation des Communications Electroniques et de la Poste ou de l'autoritØ judiciaire, les opØrateurs de rØseaux et de services de communications Ølectroniques mobiles dØsactivent en permanence les cartes SIM qui ont ØtØ utilisØes pour commettre des dØlits.
+
+## CHAPITRE IV -DISPOSITIONS PARTICULIERES AUX EXPLOITANTS DE CYBERCAFES
+
+## Article 19
+
+Les exploitants de cybercafØs procŁdent à l'identification des utilisateurs de leurs services.
+
+Aucun utilisateur ne peut bØnØficier d'un service de cybercafØ s'il n'est prØalablement identifiØ par l'opØrateur concernØ, conformØment aux dispositions du prØsent dØcret.
+
+## Article 20
+
+Les exploitants de cybercafØs recueillent auprŁs de leurs utilisateurs nØcessaires prØalablement à la fourniture du service. les informations
+
+En plus de ces informations, les exploitants de cybercafØs enregistrent:
+
+- -l'identifiant du terminal utilisØ pour la connexion $\_{;}$
+- Ies dates et heures de dØbut et de fin de la connexion.
+
+Les exploitants de cybercafØs traitent les donnØes à caractŁre personnel conformØment à la lØgislation et à la rŁglementation en vigueur.
+
+## CHAPITRE V -SANCTIONS ET DISPOSITIONS FINALES
+
+## Article 21
+
+sanctions Tout $\_{manquement }$ aux dispositions du prØsent dØcret est passible $\_{de}$ conformØment aux dispositions lØgislatives et rŁglementaires en vigueur.
+
+## Article $\_{22}$
+
+Les opØrateurs disposent d'un dØlai de trois (03) mois, à compter de la date d'entrØe en vigueur du prØsent dØcret pour mettre en place le nouveau systŁme d'identification de leurs utilisateurs.
+
+A l'ØchØance de ces trois (03) mois, les opØrateurs disposent d'un dØlai de (06) mois pour mettre à jour les donnØes d'identification des abonnØs dont les dispositifs d'accŁs aux services ont ØtØ acquis ou mis en service avant la date en vigueur du prØsent dØcret.
+
+PassØ ce dØlai, les opØrateurs prennent les mesures nØcessaires pour dØsactiver les abonnØs qui n'auront pas satisfait aux exigences du prØsent dØcret.
+
+4
+
+"/
+
+## Article $\_{23}$
+
+Les opØrateurs ne sont pas redevables de pØnalitØs, de remboursement de $\_{crØdits }$$\_{de}$ communication ou de dommages et intØrŒts, suite à la mise en restriction, à la suspension $^{provisoire }$ou dØfinitive de la ligne d'un abonnØ, à la dØsactivation de la $\_{carte }$$\_{slM,}$ rØsultant de l'application des dispositions du prØsent dØcret.
+
+## Article $\_{24}$
+
+Le Ministre de l'lntØrieur et de la sØcuritØ publique, Ie Ministre du NumØrique et de la Digitalisation, le Ministre de la communication et de la poste, le $\_{Garde }$ des $\_{sceaux,}$ Ministre de la Justice et de la LØgislation et le Ministre de l'Économie et des Finances sont chargØs, chacun en ce qui le concerne, de l,application du prØsent dØcret.
+
+## Article $\_{25}$
+
+Le prØsent dØcret, qui prend effet pour compter de la date de sa signature, abroge $\_{les}$ dispositions du dØcret n" 2016-465 du 03 aoßt 2016 portant obligation d'identification des abonnØs aux rØseaux et $\_{services }$ de communications Ølectroniques en RØpublique du BØnin et toutes autres dispositions antØrieures contraires.
+
+ll sera publiØ au Journal officiel.
+
+Par le PrØsident de la RØpublique, Chef de l'Etat, Chef du Gouvernement,
+
+Le Garde des Sceaux, Ministre de la Justice et de la LØgislation,
+
+v{, u
+
+..(/,
+
+SØverin Maxime
+
+IStre de l'Économie Finances
+
+<!-- image -->
+
+Patrice TALON.-
+
+<!-- image -->
+
+Le Ministre du NumØrique et de Ia Digitalisation,
+
+<!-- image -->
+
+Aurelie $\_{L ADAM }$ SOULE ZOUMAROU
+
+Le Ministre de l'lntØrieur et de la SØcuritØ Publique,
+
+<!-- image -->
+
+Le Ministre de Ia Communication
+
+Alain $\_{S}$ urou OROUNLA
+
+<!-- image -->
+
+AMPLIATIONS:PR6;AN4;CS2;CC2;CES2IHAAC2iHCJ2;MND2;MEF2;MJL2;MISP2;AI.JTRESMINISTERES20;sGG4iJoRa1,

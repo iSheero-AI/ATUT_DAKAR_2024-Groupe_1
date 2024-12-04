@@ -1,0 +1,2 @@
+"Peut-on normaliser une facture d’avoir établie sur une facture antérieure à la mise en place du MCF ?
+Non, il n'est pas possible de normaliser une facture d’avoir établie sur une facture antérieure à la mise en place du MCF."

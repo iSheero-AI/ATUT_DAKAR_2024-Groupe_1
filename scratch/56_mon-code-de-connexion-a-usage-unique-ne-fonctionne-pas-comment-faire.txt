@@ -1,0 +1,2 @@
+"Mon code de connexion à usage unique ne fonctionne pas. Comment faire ?
+Cliquez à nouveau sur le bouton « Cliquez ici pour générer un code », puis consulter votre boite email et saisissez le nouveau code reçu."
